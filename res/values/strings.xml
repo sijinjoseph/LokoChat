@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">LokoChat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_loko_chat">LokoChat</string>
+    <string name="nickname_label">Nickname</string>
+    <string name="nickname_hint">talkyMocha999</string>
+    <string name="button_scan_tag_start_label">Tap a LokoChat tag</string>
+    <string name="button_scan_tag_end_label">Cancel</string>
+
+</resources>
